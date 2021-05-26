@@ -10,7 +10,6 @@ function App() {
           Colin's Portfolio Site!
         </p>
           Learn React
-        </a>
       </header>
     </div>
   );
